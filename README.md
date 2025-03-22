@@ -1,6 +1,6 @@
 # Movie Maniac 🎥
 
-**Movie Maniac** is a responsive web application that enables users to discover and explore movies effortlessly. Built using React and the TMDB API, the app offers features such as filtering movies by ratings, sorting by release date or popularity, and displaying detailed movie information.
+**Movie Maniac** is a web application that enables users to discover and explore movies effortlessly. Built using React and the TMDB API, the app offers features such as filtering movies by ratings, sorting by release date or popularity, and displaying detailed movie information.
 
 ## Features ✨
 
