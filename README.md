@@ -4,10 +4,11 @@
 
 ## Features ✨
 
-- **Dynamic Movie Listings**: Fetches and displays movies dynamically using the TMDB API.
-- **Filtering**: Filter movies by ratings to discover top-rated options.
-- **Sorting**: Sort movies based on release date, rating, or popularity.
-- **Reusable Components**: Utilizes reusable components like `MovieCard` and `FilterGroup` for modular and scalable code.
+- **Dynamic Movie Listings**: Fetches and displays movies dynamically using the TMDB API.  
+- **Filtering**: Filter movies by ratings to discover top-rated options.  
+- **Sorting**: Sort movies based on release date, rating, or popularity.   
+- **Seamless Integration**: Integrated the TMDB API to fetch and display movie data dynamically.  
+- **Modular Codebase**: Built a scalable and modular application using React.js, leveraging reusable components for maintainable and clean code.
 
 ## Screenshots 📸
 
