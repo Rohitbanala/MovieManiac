@@ -32,3 +32,41 @@ Follow the steps below to set up and run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rohitbanala/MovieManiac.git
+   
+2. **Navigate to the project directory**:
+   ```bash
+   cd MovieManiac
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Set up TMDB API**:
+   - Create a `.env` file in the root directory.
+   - Add your TMDB
+
+API key to the `.env` file as follows:
+     ```env
+     REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here
+     ```
+   Replace `your_tmdb_api_key_here` with your actual API key obtained from [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api).
+
+5. **Run the application**:
+   Start the development server:
+   ```bash
+   npm start
+   ```
+
+6. **Access the application**:  
+   Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the app.
+
+---
+
+## Technologies Used 🛠️
+
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **API**: [TMDB API](https://www.themoviedb.org/documentation/api)
+- **State Management**: React State Hooks
+- **Tools**: VS Code, Git
