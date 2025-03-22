@@ -13,7 +13,7 @@
 ## Screenshots 📸
 
 ### Home Page
-![Home Page](#)
+![Home Page](\assets\moviemaniac.png)
 
 ### Movie Details
 ![Movie Details](#)
