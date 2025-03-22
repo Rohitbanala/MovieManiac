@@ -10,10 +10,6 @@
 - **Responsive Design**: Ensures a seamless experience on both desktop and mobile devices.
 - **Reusable Components**: Utilizes reusable components like `MovieCard` and `FilterGroup` for modular and scalable code.
 
-## Live Demo 🌐
-
-🚀 Check out the live demo: [Movie Maniac](#)
-
 ## Screenshots 📸
 
 ### Home Page
