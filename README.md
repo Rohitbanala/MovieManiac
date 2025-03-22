@@ -16,7 +16,7 @@
 ![Home Page](https://github.com/Rohitbanala/MovieManiac/blob/main/src/assets/moviemaniac.png)
 
 ### Movie Details
-![Movie Details](#)
+![Movie Details](https://github.com/Rohitbanala/MovieManiac/blob/main/src/assets/moviemaniacDetails.png)
 
 ## Technologies Used 🛠️
 
