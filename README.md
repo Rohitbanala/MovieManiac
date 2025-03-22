@@ -13,7 +13,7 @@
 ## Screenshots 📸
 
 ### Home Page
-![Home Page](assets/moviemaniac.png)
+![Home Page](https://github.com/Rohitbanala/MovieManiac/blob/main/src/assets/moviemaniac.png)
 
 ### Movie Details
 ![Movie Details](#)
