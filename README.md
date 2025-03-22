@@ -7,7 +7,6 @@
 - **Dynamic Movie Listings**: Fetches and displays movies dynamically using the TMDB API.
 - **Filtering**: Filter movies by ratings to discover top-rated options.
 - **Sorting**: Sort movies based on release date, rating, or popularity.
-- **Responsive Design**: Ensures a seamless experience on both desktop and mobile devices.
 - **Reusable Components**: Utilizes reusable components like `MovieCard` and `FilterGroup` for modular and scalable code.
 
 ## Screenshots 📸
